@@ -67,9 +67,9 @@ fn main() {
     println!("Lamp light in the attic flickers intermittently. Camera tracks forward with foreboding music.");
     println!("");
 
-    println!("...-/");
-    println!("..../.-/.../");
-    println!("--/./");
+    println!("-.-./.-/...-/./-./");
+    println!(".-/.../..../");
+    println!("./--/");
     println!("");
 
     // TAKE IN 3 USER INPUTS
